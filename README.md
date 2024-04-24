@@ -1,7 +1,8 @@
 # Hello, I'm Denis Gaspar! 👋
 
-📍 **Location:** Porto, Portugal  
-🔗 **Website:** [denis-gaspar.com](https://denis-gaspar.com)
+- 📍 **Location:** Porto, Portugal  
+- 🔗 **Website:** [denis-gaspar.com](https://denis-gaspar.com)
+- 📄 **Portfolio:** [Denis - Mobile developer](https://github.com/evoandro/portfolio/raw/main/Denis%20-%20Mobile%20Developer.pdf)
 
 ## About Me
 I'm a seasoned mobile developer with over 8 years of experience in creating cutting-edge mobile applications. I specialize in Kotlin, Java, and cross-platform technologies like React Native and Flutter. Currently, I lead a development team at Pictonio, where we've made significant strides in e-commerce mobile solutions.
