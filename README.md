@@ -1,7 +1,7 @@
 # Hello, I'm Denis Gaspar! 👋
 
 - 📍 **Location:** Porto, Portugal  
-- 🔗 **Website:** [denis-gaspar.com](https://denis-gaspar.com)
+- 🔗 **Website:** [denis-gaspar.com](https://denisgaspar.net)
 - 📄 **Portfolio:** [Denis - Mobile developer](https://github.com/evoandro/portfolio/raw/main/Denis%20-%20Mobile%20Developer.pdf)
 
 ## About Me
@@ -35,5 +35,5 @@ I'm a seasoned mobile developer with over 8 years of experience in creating cutt
 ## 💬 Let's Connect!
 Feel free to reach out to me for collaborations or just a chat:
 - 📧 **Email:** [dngaspar5@gmail.com](mailto:dngaspar5@gmail.com)
-- 🔗 **Website:** [denis-gaspar.com](https://denis-gaspar.com)
+- 🔗 **Website:** [denis-gaspar.com](https://denisgaspar.net)
 
